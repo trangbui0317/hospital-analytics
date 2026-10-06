@@ -1,0 +1,7 @@
+department,discharges,readmitted_within_30d,readmission_rate_pct
+Cardiology,1337,159,11.9
+General Medicine,2426,271,11.2
+Emergency,3824,221,5.8
+Paediatrics,1061,55,5.2
+ICU,837,40,4.8
+Orthopaedics,831,26,3.1

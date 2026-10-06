@@ -1,0 +1,7 @@
+department,bed_capacity,avg_occupied_beds,avg_occupancy_pct,pct_days_at_90pct_or_more
+General Medicine,40,39.6,99.1,67.7
+ICU,12,11.2,93.7,60.8
+Cardiology,25,16.1,64.3,5.2
+Emergency,30,17.9,59.7,4.1
+Orthopaedics,25,13.0,52.0,0.5
+Paediatrics,20,9.7,48.4,1.4

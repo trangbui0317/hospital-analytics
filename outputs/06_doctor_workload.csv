@@ -1,0 +1,25 @@
+department,doctor,admissions,rank_in_department
+Cardiology,Dr. Cardiology-11,379,1
+Cardiology,Dr. Cardiology-09,377,2
+Cardiology,Dr. Cardiology-12,364,3
+Cardiology,Dr. Cardiology-10,340,4
+Emergency,Dr. Emergency-01,1082,1
+Emergency,Dr. Emergency-02,1065,2
+Emergency,Dr. Emergency-04,1017,3
+Emergency,Dr. Emergency-03,993,4
+General Medicine,Dr. General-22,671,1
+General Medicine,Dr. General-24,671,1
+General Medicine,Dr. General-23,668,3
+General Medicine,Dr. General-21,647,4
+ICU,Dr. ICU-06,257,1
+ICU,Dr. ICU-08,248,2
+ICU,Dr. ICU-05,236,3
+ICU,Dr. ICU-07,193,4
+Orthopaedics,Dr. Orthopaedics-16,244,1
+Orthopaedics,Dr. Orthopaedics-15,231,2
+Orthopaedics,Dr. Orthopaedics-14,230,3
+Orthopaedics,Dr. Orthopaedics-13,215,4
+Paediatrics,Dr. Paediatrics-17,303,1
+Paediatrics,Dr. Paediatrics-18,298,2
+Paediatrics,Dr. Paediatrics-20,285,3
+Paediatrics,Dr. Paediatrics-19,273,4

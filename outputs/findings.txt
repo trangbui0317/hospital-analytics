@@ -1,0 +1,7 @@
+KEY FINDINGS (synthetic data, 2025)
+
+1. Bed pressure: General Medicine has the highest average occupancy (99.1%) and is at >=90% of capacity on 67.7% of days.
+2. Longest stays: General Medicine averages 5.44 days per admission.
+3. Peak arrival hour: 09:00 (1065 admissions in the year).
+4. Seasonality: admissions peak in 2025-08 (1166) and are lowest in 2025-02 (797).
+5. Readmissions: Cardiology has the highest 30-day readmission rate (11.9%).
